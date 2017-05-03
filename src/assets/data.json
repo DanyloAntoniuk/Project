@@ -1,0 +1,21 @@
+{
+  "dateOfBirth": "24 April 1994;",
+  "placeOfLiving": "Ugryniv, Kozatska 19",
+  "education": [
+    "Ukrainian gymnasium №1(2004 - 2011)",
+    "Lviv Polytechnic National University(2011 - 2017), speciality: control systems of production and distributing of electric energy, Master's degree",
+    "SoftServe IT Academy (2017)"
+  ],
+  "hobby": [
+    "skiing",
+    "going to the gym",
+    "watching different kindes of sport competitions",
+    "playing computer games."
+  ],
+  "contact": [
+    "phone: 098-60-73-745",
+    "email: ldominiquel@i.ua",
+    "skype: ldominiquel",
+    "github: github.com/DanyloAntoniuk"
+  ]
+}

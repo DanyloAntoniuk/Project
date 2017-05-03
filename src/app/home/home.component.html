@@ -1,0 +1,13 @@
+<div class="col-lg-5 col-md-6" xmlns="http://www.w3.org/1999/html">
+  <img src="./assets/rsz_1me.jpg" alt="img">
+</div>
+<div class="col-lg-6 col-md-6 text">
+  <h2>Hello and welcome to my first Angular application!</h2>
+  <h3>About me:</h3>
+  <span class="def">Date of birth: </span><span> {{dateOfBirth}}</span><br><br>
+  <span class="def">Place of living: </span><span> {{placeOfLiving}}</span><br><br>
+  <span class="def">Education: </span>
+  <ul>
+    <li *ngFor="let education of educations">{{education}};</li>
+  </ul>
+</div>
