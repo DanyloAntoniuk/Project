@@ -7,7 +7,7 @@ import { HttpService } from '../data.service';
   styleUrls: ['./contacts.component.css']
 })
 export class ContactsComponent implements OnInit {
-contacts: any;
+contacts: string[];
 
   constructor(private httpService: HttpService) { }
 

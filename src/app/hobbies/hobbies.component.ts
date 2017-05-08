@@ -7,7 +7,7 @@ import { HttpService } from '../data.service';
   styleUrls: ['./hobbies.component.css']
 })
 export class HobbiesComponent implements OnInit {
-  hobbies: any;
+  hobbies: string[];
 
   constructor(private httpService: HttpService) { }
 
