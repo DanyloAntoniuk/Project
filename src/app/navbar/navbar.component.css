@@ -2,3 +2,11 @@ nav {
   width: 90%;
   margin: 20px auto;
 }
+
+.navbar-inverse {
+  background-color: #282525;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+  background-color: #181717;
+}

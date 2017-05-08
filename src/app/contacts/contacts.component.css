@@ -7,6 +7,7 @@ img {
   width: 340px;
   height: 480px;
 }
+
 h2, h3 {
   font-weight: 600;
   color: #000;
@@ -14,18 +15,10 @@ h2, h3 {
 }
 
 li {
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
   text-align: left;
   padding-top: 10px;
-}
-
-.text {
-  text-align: left;
-}
-
-.def {
-  font-weight: 600;
-  color: #000;
-  font-size: 18px;
 }
 
 @media (max-width: 450px) {

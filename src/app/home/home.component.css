@@ -7,10 +7,16 @@ img {
   width: 340px;
   height: 480px;
 }
+
 h2, h3 {
   font-weight: 600;
   color: #000;
   text-align: center;
+}
+
+span, li {
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
 }
 
 li {
